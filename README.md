@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Paras Arya
 - 👀 I’m interested in Blockchain
 - 💞️ I’m looking to collaborate on ... Blockchain Projects
-- 📫 How to reach me ... https://bit.ly/3aMqnYe
-
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/0xparas/)
 Worked on projects: 
 - Bundles
 - Voxies
